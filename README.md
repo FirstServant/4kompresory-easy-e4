@@ -1,5 +1,5 @@
 # 4kompresory-easy-e4
-4kompresory kaskadowo na easy e4-dc-12tc1
+4kompresory kaskadowo na easy e4-dc-12tc1 firmware 1.41 hardware revision < 08! 
 
 obwód 9-10-11-12-13 ekran
 obwód 18-19-20-21 wartosc wejsciowa ze zboczem narastajacym + wartość histerezy
