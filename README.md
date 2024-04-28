@@ -6,5 +6,5 @@ obwód 18-19-20-21 wartosc wejsciowa ze zboczem narastajacym + wartość histere
 obwod 22 K2 po czasie X (30s?)
 obwod 23 K3 po czasie X
 obwod 24 K4 po czasie X
-obwod 32 sudo~losowosc przełączanie po czasie dla 2xK (60)
-obwod 42 sudo~losowosc przełączanie po czasie dla 3xK (60)
+obwod 32 sudo-losowosc przełączanie po czasie dla 2xK (60)
+obwod 42 sudo-losowosc przełączanie po czasie dla 3xK (60)
